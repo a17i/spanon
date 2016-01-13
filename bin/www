@@ -3,7 +3,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('hix:server');
+var debug = require('debug')('hello-express-fork:server');
 var http = require('http');
 
 /**
